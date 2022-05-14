@@ -1,5 +1,5 @@
 // let name = 'Barath';
-// name = "Deepika";
+// name = "Kavi";
 // let yourName = prompt("What is your Name? " + name)
 // let myName = ("Barath Elangovan")
 //     // alert(myName);
